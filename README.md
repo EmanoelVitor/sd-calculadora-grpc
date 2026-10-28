@@ -4,8 +4,8 @@
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/emanoelvoitpo/calculadora-grpc-python.git
-cd pratica04
+git clone https://github.com/EmanoelVitor/sd-calculadora-grpc.git
+cd sd-calculadora-grpc
 ```
 
 
