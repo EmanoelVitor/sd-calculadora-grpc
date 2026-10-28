@@ -1,0 +1,10 @@
+venv/
+.venv/
+
+*.py[cod]
+
+calculadora_pb2.py
+calculadora_pb2_grpc.py
+
+.vscode/
+.idea/
